@@ -467,7 +467,12 @@ composer.lock
 
 /wpcs/*
 
-*.env
+composer.phar
+/nbproject/
+/vendor/
+.idea/
+local.env
+composer.lock
 
 ##### SASS
 .sass-cache/
