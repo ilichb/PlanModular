@@ -467,6 +467,8 @@ composer.lock
 
 /wpcs/*
 
+*.env
+
 ##### SASS
 .sass-cache/
 *.css.map
